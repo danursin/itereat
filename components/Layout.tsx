@@ -1,4 +1,4 @@
-import { Grid, Header, Menu } from "semantic-ui-react";
+import { Grid, Menu } from "semantic-ui-react";
 
 import Head from "next/head";
 import Image from "next/image";
